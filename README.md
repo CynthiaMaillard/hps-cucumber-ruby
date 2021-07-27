@@ -31,7 +31,7 @@ or
     bundle exec cucumber --format json --out results.json
 
 Run tests
----------
+------------
 
 
 To build the project and run the tests, use the following command:
